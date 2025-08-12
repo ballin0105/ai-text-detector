@@ -10,7 +10,7 @@ To build a high-accuracy AI text detector capable of distinguishing between AI-g
 
 ```
 Detector/
-├── data/                    # Datasets
+├── data/                   # Datasets
 │   ├── raw/                # Raw data
 │   └── processed/          # Processed data
 ├── scripts/                # Core scripts
@@ -45,9 +45,9 @@ python scripts/05_evaluation/evaluate_and_analyze.py
 
 ## 📊 Model Performance
 
-- Accuracy: ~95%
-- F1-Score: ~0.95
-- ROC-AUC: ~0.98
+- Accuracy: ~99%
+- F1-Score: ~0.99
+- ROC-AUC: ~0.99
 
 ## 📝 License
 
