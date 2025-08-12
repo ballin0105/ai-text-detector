@@ -19,7 +19,7 @@ Detector/
 │   ├── 03_data_preparation/# Data preparation
 │   ├── 04_model_training/  # Model training
 │   └── 05_evaluation/      # Evaluation and analysis
-└── utils/                  # 工具脚本
+└── utils/                  # Tools
 ```
 
 ## 🚀 Quick Start
