@@ -22,7 +22,7 @@ Detector/
 └── utils/                  # 工具脚本
 ```
 
-## 🚀 快速开始
+## 🚀 Quick Start
 
 ### 1. Environment Setup
 ```bash
